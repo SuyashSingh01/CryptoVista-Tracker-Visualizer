@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ea63ec5.css",
+    "main.js": "/static/js/main.9de0549d.js",
+    "static/js/872.0cd2772e.chunk.js": "/static/js/872.0cd2772e.chunk.js",
+    "static/js/227.5dba19c9.chunk.js": "/static/js/227.5dba19c9.chunk.js",
+    "static/js/526.e8d4daed.chunk.js": "/static/js/526.e8d4daed.chunk.js",
+    "static/js/232.7aafb068.chunk.js": "/static/js/232.7aafb068.chunk.js",
+    "static/js/237.1fb8bcef.chunk.js": "/static/js/237.1fb8bcef.chunk.js",
+    "static/js/357.8b59cf72.chunk.js": "/static/js/357.8b59cf72.chunk.js",
+    "static/media/source1.png": "/static/media/source1.30b51ac3535432093285.png",
+    "static/media/signup.png": "/static/media/signup.861519f8f6779e108bee.png",
+    "static/media/login.png": "/static/media/login.4bea52b1379194de943b.png",
+    "static/media/source2.png": "/static/media/source2.cd369960b79f5b8f6c82.png",
+    "static/media/ether_3D_logo.png": "/static/media/ether_3D_logo.f5fa0fe08a78514427e6.png",
+    "static/media/logo.png": "/static/media/logo.c3dc702403804d00b0ca.png",
+    "static/media/source4.png": "/static/media/source4.f5038f4dc562bc6304ab.png",
+    "index.html": "/index.html",
+    "static/media/Bg1.svg": "/static/media/Bg1.9c943593d31701192cac94331579160f.svg",
+    "main.6ea63ec5.css.map": "/static/css/main.6ea63ec5.css.map",
+    "main.9de0549d.js.map": "/static/js/main.9de0549d.js.map",
+    "872.0cd2772e.chunk.js.map": "/static/js/872.0cd2772e.chunk.js.map",
+    "227.5dba19c9.chunk.js.map": "/static/js/227.5dba19c9.chunk.js.map",
+    "526.e8d4daed.chunk.js.map": "/static/js/526.e8d4daed.chunk.js.map",
+    "232.7aafb068.chunk.js.map": "/static/js/232.7aafb068.chunk.js.map",
+    "237.1fb8bcef.chunk.js.map": "/static/js/237.1fb8bcef.chunk.js.map",
+    "357.8b59cf72.chunk.js.map": "/static/js/357.8b59cf72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea63ec5.css",
+    "static/js/main.9de0549d.js"
+  ]
+}
