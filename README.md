@@ -15,7 +15,7 @@ CryptoVista is a React application that provides real-time information and analy
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cryptovista.git
+    git clone https://github.com/SuyashSingh01/cryptovista.git
     ```
 
 2. Install the dependencies:
