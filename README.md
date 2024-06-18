@@ -1,7 +1,7 @@
 # React Router Project Starter
 # CryptoVista
 
-CryptoVista is a React application that provides real-time information and analysis of cryptocurrencies. It utilizes React Router for navigation and routing within the application.
+CryptoVista is a React application that provides real-time information and analysis of cryptocurrencies. It utilizes solidity to allow the user to exchange the Ether across the globe on the smartcontract  .
 
 ## Features
 
